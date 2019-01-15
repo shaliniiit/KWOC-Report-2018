@@ -1,0 +1,15 @@
+Name: Shalini Mukhopadhyay
+Roll No:17EE10056
+Project: Rose
+Mentor:Kaustubh Hiware
+
+Project Description:Analyse all kinds of data for a TV series
+ Work Summary:
+ Issue 1:Creation on Interactive plot.
+  Status: Opened into a different tab instead of opening in the same page, so not committed.
+  
+ Issue 2: Display of Seasons and Episodes having IMDB more than that specified by user.
+  Status: Implemented logically but requires formatting and proper presentation. Am still working on it while having sent a Pull Request to the mentor.
+  
+  I want to thank my mentor and will submit the half-resolved issues which I couldn't work on due to lack of time.
+  Thanks.
